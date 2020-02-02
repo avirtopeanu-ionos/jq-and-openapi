@@ -5,6 +5,7 @@ This repository contains the set of JQ files used in the [JQ and OpenAPI post se
 ```
 git clone https://github.com/arno-di-loreto/jq-and-openapi/
 cd jq-and-openapi
+# Part 1 content
 git checkout part-1
 git checkout part-2
 git checkout part-3
